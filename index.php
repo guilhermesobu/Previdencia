@@ -7,10 +7,10 @@
     </head>
     <body>
         <?php
-        // put your code here
+        echo "teste";
         ?>
-        
-        
+
+
         <script src="assets/js/jquery-3.4.1.js"></script>
         <script src="assets/js/popper.min.js"></script>
         <script src="assets/js/bootstrap.js"></script> 
