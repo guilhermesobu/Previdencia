@@ -1,4 +1,4 @@
-<div class="row" style="background-color: blue">
+<div class="row">
     <div class="col-sm-12 col-md-4">
         Icone
     </div>

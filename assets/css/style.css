@@ -1,0 +1,8 @@
+.header-gradient{
+    height: 50px;
+    background: linear-gradient(#b21f2d 70%, pink 80%);
+}
+
+.backgroud-color{
+    background: pink;
+}
