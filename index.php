@@ -11,6 +11,7 @@
         require './pages/defaults/header.php';
         require './pages/defaults/main.php';
         require './pages/defaults/footer.php';
+        echo "Teste de Git";
         ?>
         </div>
         <script src="assets/js/jquery-3.4.1.js"></script>
